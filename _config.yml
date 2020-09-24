@@ -1,0 +1,11 @@
+
+
+title: Baitap1
+email: anhhoang2000@gmail.com
+
+github_username:  anhhoang26
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
